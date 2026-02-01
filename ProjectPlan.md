@@ -1,4 +1,4 @@
-# Final Year Project Plan
+# Final Year Project Plan.
 
 ## Project Title
 LMS-Global 
